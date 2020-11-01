@@ -1,9 +1,11 @@
 # Employee-Recruitment-System-Python
-OPEN Project FFinal.ipynb
+Open Project FFinal.ipynb and run it
+
+
 For admin :
 Admin credentials-
-username =admin 
-password=12345
+username = admin 
+password = 12345
 
 For employee :
 If employee is new then he must register himself in the company
